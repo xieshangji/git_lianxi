@@ -1,2 +1,1 @@
 int manint 
-woaini jingjing
