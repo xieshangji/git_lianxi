@@ -1,12 +1,9 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-ddddddd
-=======
-ddddddd
->>>>>>> feature1
-=======
-dddddddi
-
-
-i love ubuntulinux
->>>>>>> feature1
+rrrr
+rrrr
+6666rrrr
+rrrr
+6666rrrr
+rrrr
+6666rrrr
+rrrr
+6666
